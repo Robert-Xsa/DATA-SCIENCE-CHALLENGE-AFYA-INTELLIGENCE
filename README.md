@@ -10,10 +10,14 @@
 
 # DATASET
 
-A dataset containing historical data on healthcare product
-sales. Including variables such as:
+A dataset containing historical data on healthcare product sales. Including variables such as:
+
 ● Pharmacy name
+
 ● Product code
+
 ● Product name
+
 ● Timeline(month,year)
+
 ● Sales
